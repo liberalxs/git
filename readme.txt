@@ -1,1 +1,4 @@
-hello world!
+hello world.
+If you feel even the wind is stopping you,
+that is because you run fast enough!
+
